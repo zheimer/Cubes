@@ -1,1 +1,8 @@
 C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\bin\Debug\Application.exe.config
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\bin\Debug\Application.exe
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\bin\Debug\Application.pdb
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\bin\Debug\Ghostscript.NET.dll
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\bin\Debug\Ghostscript.NET.xml
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\obj\Debug\Application.exe
+C:\Users\R&D\Documents\GitHub\Cubes\Application\Application\obj\Debug\Application.pdb
